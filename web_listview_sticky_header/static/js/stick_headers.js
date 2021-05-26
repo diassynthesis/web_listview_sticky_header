@@ -1,4 +1,4 @@
-odoo.define('ks_odoo11_web_listview_sticky_header.stick_header', function (require) {
+odoo.define('ks_odoo13_web_listview_sticky_header.stick_header', function (require) {
 'use strict';
     var ListView = require('web.ListRenderer');
     ListView.include({
